@@ -1,0 +1,34 @@
+<html>
+<head><meta charset ="utf-8">
+    <title> Vacation Spots 
+    </title>
+</head>
+     <style> 
+        body {
+    
+        background-color: pink;
+        } 
+        h1{
+        font-family: verdana;
+        font-size:100;
+        color:white;
+        }
+        h2{
+        font-size: 40;
+        }
+        </style>
+        <body>
+            <h1> VACATION SPOTS </h1>
+                <img src ="plane.jpg" width="500" height="300">
+                
+
+          
+           
+                
+                
+                     
+            
+                
+               
+       </body>
+</html>

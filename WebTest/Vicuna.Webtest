@@ -1,0 +1,42 @@
+
+<html>
+<head><meta charset ="utf-8">
+    <title> Llamas 
+    </title>
+</head>
+     <style> 
+        body {
+        background-color:Pink;
+        } 
+        h1{
+        font-family: verdana;
+        font-size:60;
+        color:orange;
+        }
+        h2{
+        font-size: 40;
+        }
+        </style>
+        <body>
+            <h1> The VICUNA </h1>
+                <ol>
+                
+<p><font size="10" color="blue">All of these <em>majestic</em> animals are ancestors of the Vicuna</font></p>
+          
+           
+                <h2>Types of VICUNA</h2>
+                    <li>Vicuna</li>
+                    <li>Llamas</li>
+                    <li>The Alpaca </li>                 
+                    <li>Guanaco</li>
+                    <li>The Bactarian Camel</li>
+                </ol>
+                 
+                    <img src ="https://c4.staticflickr.com/3/2333/2032914765_88b2162c47_o.jpg" width="500" height="300">
+                     <img src ="https://farm3.staticflickr.com/2246/1492220490_124bc58588_o.jpg" width="300">
+                     
+            
+                
+               
+       </body>
+</html>
